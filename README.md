@@ -31,6 +31,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -191,6 +192,11 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [count-digits-in-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-digits-in-number/) | Easy |
 
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0sum-of-digits](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0sum-of-digits/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
 
 
@@ -220,7 +226,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -314,7 +322,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [leap-year](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/leap-year/) | Basic |
 
+## Drishti-Soft
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0sum-of-digits](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0sum-of-digits/) | Easy |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
 
