@@ -5,6 +5,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -17,6 +18,7 @@ Contains topicwise list of solved problems.
 ## Mathematics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [given-base-to-decimal-conversion](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/given-base-to-decimal-conversion/) | Basic |
 | [reading-books](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/reading-books/) | Easy |
 
 ## Reading Books
@@ -24,10 +26,17 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [reading-books](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/reading-books/) | Easy |
 
+## Convert Base Decimal Vice Versa
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [given-base-to-decimal-conversion](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/given-base-to-decimal-conversion/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
 
 
+
 <hr>
+
 
 
 <!---GeeksForGeeks Companies Start-->
@@ -53,4 +62,15 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0max-consecutive-bit](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0max-consecutive-bit/) | Easy |
 
+## Adobe
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [given-base-to-decimal-conversion](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/given-base-to-decimal-conversion/) | Basic |
+
+## Paytm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [given-base-to-decimal-conversion](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/given-base-to-decimal-conversion/) | Basic |
+
 <!---GeeksForGeeks Companies End-->
+
