@@ -22,6 +22,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -33,6 +34,7 @@ Contains topicwise list of solved problems.
 | [0two-arrays-permutation-check](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0two-arrays-permutation-check/) | Easy |
 | [array-or-list-traversal](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-or-list-traversal/) | Basic |
 | [array-search](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-search/) | Basic |
+| [array-subset](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-subset/) | Basic |
 | [count-odd-and-even](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-odd-and-even/) | Basic |
 | [element-at-index-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/element-at-index-in-array/) | Basic |
 | [largest-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/largest-in-array/) | Basic |
@@ -88,6 +90,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [array-search](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-search/) | Basic |
+| [array-subset](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-subset/) | Basic |
 
 ## Cpp Program For Linear Search
 | Problem Name | Difficulty |
@@ -128,6 +131,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0two-arrays-permutation-check](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0two-arrays-permutation-check/) | Easy |
+| [array-subset](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-subset/) | Basic |
 
 ## Sorting
 | Problem Name | Difficulty |
@@ -159,7 +163,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -228,7 +234,23 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0two-arrays-permutation-check](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0two-arrays-permutation-check/) | Easy |
 
+## Accolite
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [array-subset](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-subset/) | Basic |
+
+## Qualcomm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [array-subset](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-subset/) | Basic |
+
+## GE
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [array-subset](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-subset/) | Basic |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
 
