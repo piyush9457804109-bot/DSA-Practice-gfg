@@ -21,6 +21,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -29,6 +30,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0max-consecutive-bit](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0max-consecutive-bit/) | Easy |
 | [0sum-array-puzzle](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0sum-array-puzzle/) | Basic |
+| [0two-arrays-permutation-check](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0two-arrays-permutation-check/) | Easy |
 | [array-or-list-traversal](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-or-list-traversal/) | Basic |
 | [array-search](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-search/) | Basic |
 | [count-odd-and-even](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-odd-and-even/) | Basic |
@@ -122,6 +124,21 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [rotate-array-by-one](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/rotate-array-by-one/) | Basic |
 
+## Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0two-arrays-permutation-check](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0two-arrays-permutation-check/) | Easy |
+
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0two-arrays-permutation-check](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0two-arrays-permutation-check/) | Easy |
+
+## Check If Two Arrays Are Equal Or Not
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0two-arrays-permutation-check](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0two-arrays-permutation-check/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
 
 
@@ -141,7 +158,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -204,7 +223,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [largest-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/largest-in-array/) | Basic |
 
+## Goldman Sachs
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0two-arrays-permutation-check](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0two-arrays-permutation-check/) | Easy |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
 
