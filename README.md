@@ -13,6 +13,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -20,6 +21,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0max-consecutive-bit](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0max-consecutive-bit/) | Easy |
+| [array-or-list-traversal](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-or-list-traversal/) | Basic |
 | [element-at-index-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/element-at-index-in-array/) | Basic |
 | [reading-books](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/reading-books/) | Easy |
 | [replace-all-0s-with-5](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/replace-all-0s-with-5/) | Basic |
@@ -62,7 +64,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [element-at-index-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/element-at-index-in-array/) | Basic |
 
+## Array Or List Traversal
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [array-or-list-traversal](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-or-list-traversal/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
