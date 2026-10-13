@@ -36,6 +36,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -62,6 +63,7 @@ Contains topicwise list of solved problems.
 | [0npr](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0npr/) | Basic |
 | [0sum-of-natural-number-cubes](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0sum-of-natural-number-cubes/) | Basic |
 | [armstrong-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/armstrong-numbers/) | Easy |
+| [check-for-power](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/check-for-power/) | Basic |
 | [count-perfect-squares](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-perfect-squares/) | Basic |
 | [given-base-to-decimal-conversion](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/given-base-to-decimal-conversion/) | Basic |
 | [reading-books](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/reading-books/) | Easy |
@@ -284,7 +286,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -384,6 +388,7 @@ Contains topicwise list of solved problems.
 ## Zoho
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [check-for-power](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/check-for-power/) | Basic |
 | [leap-year](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/leap-year/) | Basic |
 | [palindrome-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/palindrome-number/) | Easy |
 
@@ -412,7 +417,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [count-perfect-squares](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-perfect-squares/) | Basic |
 
+## SAP Labs
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [check-for-power](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/check-for-power/) | Basic |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
 
