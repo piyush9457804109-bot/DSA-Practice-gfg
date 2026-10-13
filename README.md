@@ -6,6 +6,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -18,6 +19,7 @@ Contains topicwise list of solved problems.
 ## Mathematics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0npr](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0npr/) | Basic |
 | [given-base-to-decimal-conversion](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/given-base-to-decimal-conversion/) | Basic |
 | [reading-books](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/reading-books/) | Easy |
 
@@ -31,7 +33,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [given-base-to-decimal-conversion](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/given-base-to-decimal-conversion/) | Basic |
 
+## permutation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0npr](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0npr/) | Basic |
+
+## Program To Calculate The Value Of Npr
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0npr](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0npr/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
