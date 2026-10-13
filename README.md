@@ -15,6 +15,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -25,6 +26,7 @@ Contains topicwise list of solved problems.
 | [array-or-list-traversal](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-or-list-traversal/) | Basic |
 | [array-search](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-search/) | Basic |
 | [element-at-index-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/element-at-index-in-array/) | Basic |
+| [largest-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/largest-in-array/) | Basic |
 | [reading-books](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/reading-books/) | Easy |
 | [replace-all-0s-with-5](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/replace-all-0s-with-5/) | Basic |
 
@@ -104,7 +106,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -129,6 +133,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0max-consecutive-bit](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0max-consecutive-bit/) | Easy |
+| [largest-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/largest-in-array/) | Basic |
 
 ## NPCI
 | Problem Name | Difficulty |
@@ -150,7 +155,23 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [replace-all-0s-with-5](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/replace-all-0s-with-5/) | Basic |
 
+## Infosys
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [largest-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/largest-in-array/) | Basic |
+
+## Wipro
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [largest-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/largest-in-array/) | Basic |
+
+## Morgan Stanley
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [largest-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/largest-in-array/) | Basic |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
 
