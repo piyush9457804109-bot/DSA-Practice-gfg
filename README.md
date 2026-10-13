@@ -27,6 +27,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -162,7 +163,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [leap-year](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/leap-year/) | Basic |
 
+## Java Examples
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [unknown-problem](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/unknown-problem/) | Medium |
+
+## Java Programs
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [unknown-problem](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/unknown-problem/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
