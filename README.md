@@ -18,6 +18,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -33,6 +34,7 @@ Contains topicwise list of solved problems.
 | [largest-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/largest-in-array/) | Basic |
 | [reading-books](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/reading-books/) | Easy |
 | [replace-all-0s-with-5](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/replace-all-0s-with-5/) | Basic |
+| [rotate-array-by-one](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/rotate-array-by-one/) | Basic |
 
 ## Mathematics
 | Problem Name | Difficulty |
@@ -107,7 +109,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0sum-array-puzzle](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0sum-array-puzzle/) | Basic |
 
+## implementation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [rotate-array-by-one](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/rotate-array-by-one/) | Basic |
+
+## C Program Cyclically Rotate Array One
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [rotate-array-by-one](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/rotate-array-by-one/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
