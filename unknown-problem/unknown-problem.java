@@ -1,11 +1,14 @@
 class Solution {
-    int sumOfSeries(int n) {
+    static boolean isPrime(int n) {
         // code here
-        int sum=0;
-        for(int i=1;i<=n;i++){
-            sum=sum+i*i*i;
-
+        if(n<2){
+            return false;
         }
-        return sum;
+        for(int i=2;i<n;i++){
+            if(n%i==0){
+                return false;
+            }
+        }
+        return true;
     }
 }
