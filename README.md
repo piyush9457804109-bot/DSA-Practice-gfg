@@ -16,6 +16,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -25,6 +26,7 @@ Contains topicwise list of solved problems.
 | [0max-consecutive-bit](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0max-consecutive-bit/) | Easy |
 | [array-or-list-traversal](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-or-list-traversal/) | Basic |
 | [array-search](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-search/) | Basic |
+| [count-odd-and-even](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-odd-and-even/) | Basic |
 | [element-at-index-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/element-at-index-in-array/) | Basic |
 | [largest-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/largest-in-array/) | Basic |
 | [reading-books](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/reading-books/) | Easy |
@@ -93,7 +95,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [array-search](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-search/) | Basic |
 
+## Count Number Even Odd Elements Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [count-odd-and-even](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-odd-and-even/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
