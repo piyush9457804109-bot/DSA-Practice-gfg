@@ -23,6 +23,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -143,6 +144,21 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0two-arrays-permutation-check](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0two-arrays-permutation-check/) | Easy |
 
+## Date-Time
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [leap-year](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/leap-year/) | Basic |
+
+## Cpp Program To Check Leap Year
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [leap-year](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/leap-year/) | Basic |
+
+## Program Check Given Year Leap Year
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [leap-year](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/leap-year/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
 
 
@@ -164,7 +180,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -249,7 +267,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [array-subset](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-subset/) | Basic |
 
+## Zoho
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [leap-year](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/leap-year/) | Basic |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
 
