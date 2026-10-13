@@ -35,6 +35,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -61,6 +62,7 @@ Contains topicwise list of solved problems.
 | [0npr](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0npr/) | Basic |
 | [0sum-of-natural-number-cubes](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0sum-of-natural-number-cubes/) | Basic |
 | [armstrong-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/armstrong-numbers/) | Easy |
+| [count-perfect-squares](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-perfect-squares/) | Basic |
 | [given-base-to-decimal-conversion](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/given-base-to-decimal-conversion/) | Basic |
 | [reading-books](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/reading-books/) | Easy |
 | [replace-all-0s-with-5](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/replace-all-0s-with-5/) | Basic |
@@ -243,6 +245,11 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [armstrong-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/armstrong-numbers/) | Easy |
 
+## Count Perfect Squares
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [count-perfect-squares](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-perfect-squares/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
 
 
@@ -276,7 +283,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -360,6 +369,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [array-subset](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-subset/) | Basic |
+| [count-perfect-squares](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-perfect-squares/) | Basic |
 
 ## Qualcomm
 | Problem Name | Difficulty |
@@ -392,7 +402,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [armstrong-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/armstrong-numbers/) | Easy |
 
+## Snapdeal
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [count-perfect-squares](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-perfect-squares/) | Basic |
+
+## Ola Cabs
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [count-perfect-squares](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-perfect-squares/) | Basic |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
 
