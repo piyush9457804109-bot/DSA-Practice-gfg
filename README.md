@@ -37,6 +37,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -60,6 +61,7 @@ Contains topicwise list of solved problems.
 ## Mathematics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0gcd-of-two](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0gcd-of-two/) | Basic |
 | [0npr](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0npr/) | Basic |
 | [0sum-of-natural-number-cubes](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0sum-of-natural-number-cubes/) | Basic |
 | [armstrong-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/armstrong-numbers/) | Easy |
@@ -287,7 +289,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -313,11 +317,13 @@ Contains topicwise list of solved problems.
 ## Accenture
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0gcd-of-two](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0gcd-of-two/) | Basic |
 | [0max-consecutive-bit](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0max-consecutive-bit/) | Easy |
 
 ## TCS
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0gcd-of-two](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0gcd-of-two/) | Basic |
 | [0max-consecutive-bit](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0max-consecutive-bit/) | Easy |
 
 ## Oracle
@@ -423,6 +429,7 @@ Contains topicwise list of solved problems.
 | [check-for-power](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/check-for-power/) | Basic |
 
 <!---GeeksForGeeks Companies End-->
+
 
 
 
