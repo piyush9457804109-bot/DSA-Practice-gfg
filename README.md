@@ -34,6 +34,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -58,6 +59,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0npr](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0npr/) | Basic |
+| [0sum-of-natural-number-cubes](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0sum-of-natural-number-cubes/) | Basic |
 | [armstrong-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/armstrong-numbers/) | Easy |
 | [given-base-to-decimal-conversion](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/given-base-to-decimal-conversion/) | Basic |
 | [reading-books](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/reading-books/) | Easy |
@@ -242,6 +244,7 @@ Contains topicwise list of solved problems.
 | [armstrong-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/armstrong-numbers/) | Easy |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
