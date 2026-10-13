@@ -32,6 +32,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -191,13 +192,25 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [count-digits-in-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-digits-in-number/) | Easy |
+| [palindrome-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/palindrome-number/) | Easy |
 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0sum-of-digits](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0sum-of-digits/) | Easy |
 
+## palindrome
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [palindrome-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/palindrome-number/) | Easy |
+
+## Check If A Number Is Palindrome
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [palindrome-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/palindrome-number/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
@@ -243,6 +256,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -261,6 +275,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0max-consecutive-bit](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0max-consecutive-bit/) | Easy |
 | [largest-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/largest-in-array/) | Basic |
+| [palindrome-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/palindrome-number/) | Easy |
 
 ## NPCI
 | Problem Name | Difficulty |
@@ -271,6 +286,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [given-base-to-decimal-conversion](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/given-base-to-decimal-conversion/) | Basic |
+| [palindrome-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/palindrome-number/) | Easy |
 
 ## Paytm
 | Problem Name | Difficulty |
@@ -321,13 +337,20 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [leap-year](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/leap-year/) | Basic |
+| [palindrome-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/palindrome-number/) | Easy |
 
 ## Drishti-Soft
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0sum-of-digits](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0sum-of-digits/) | Easy |
 
+## Samsung
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [palindrome-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/palindrome-number/) | Easy |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
 
