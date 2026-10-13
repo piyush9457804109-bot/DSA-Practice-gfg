@@ -33,6 +33,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -57,6 +58,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0npr](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0npr/) | Basic |
+| [armstrong-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/armstrong-numbers/) | Easy |
 | [given-base-to-decimal-conversion](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/given-base-to-decimal-conversion/) | Basic |
 | [reading-books](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/reading-books/) | Easy |
 | [replace-all-0s-with-5](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/replace-all-0s-with-5/) | Basic |
@@ -209,7 +211,38 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [palindrome-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/palindrome-number/) | Easy |
 
+## Cpp Program To Check Armstrong Numbers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [armstrong-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/armstrong-numbers/) | Easy |
+
+## Program For Armstrong Numbers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [armstrong-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/armstrong-numbers/) | Easy |
+
+## Comment of the Day
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [armstrong-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/armstrong-numbers/) | Easy |
+
+## POTD
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [armstrong-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/armstrong-numbers/) | Easy |
+
+## GeeksforGeeks
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [armstrong-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/armstrong-numbers/) | Easy |
+
+## GFG-POTD-Solutions
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [armstrong-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/armstrong-numbers/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
@@ -257,6 +290,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -274,6 +308,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0max-consecutive-bit](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0max-consecutive-bit/) | Easy |
+| [armstrong-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/armstrong-numbers/) | Easy |
 | [largest-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/largest-in-array/) | Basic |
 | [palindrome-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/palindrome-number/) | Easy |
 
@@ -349,7 +384,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [palindrome-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/palindrome-number/) | Easy |
 
+## VMWare
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [armstrong-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/armstrong-numbers/) | Easy |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
 
