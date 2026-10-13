@@ -17,6 +17,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -24,6 +25,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0max-consecutive-bit](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0max-consecutive-bit/) | Easy |
+| [0sum-array-puzzle](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0sum-array-puzzle/) | Basic |
 | [array-or-list-traversal](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-or-list-traversal/) | Basic |
 | [array-search](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-search/) | Basic |
 | [count-odd-and-even](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-odd-and-even/) | Basic |
@@ -100,7 +102,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [count-odd-and-even](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-odd-and-even/) | Basic |
 
+## A Sum Array Puzzle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0sum-array-puzzle](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0sum-array-puzzle/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
