@@ -45,6 +45,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -64,6 +65,7 @@ Contains topicwise list of solved problems.
 | [reading-books](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/reading-books/) | Easy |
 | [replace-all-0s-with-5](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/replace-all-0s-with-5/) | Basic |
 | [rotate-array-by-one](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/rotate-array-by-one/) | Basic |
+| [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
 
 ## Mathematics
 | Problem Name | Difficulty |
@@ -166,11 +168,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0two-arrays-permutation-check](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0two-arrays-permutation-check/) | Easy |
 | [array-subset](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-subset/) | Basic |
+| [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0two-arrays-permutation-check](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0two-arrays-permutation-check/) | Easy |
+| [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
 
 ## Check If Two Arrays Are Equal Or Not
 | Problem Name | Difficulty |
@@ -316,7 +320,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [swap-two-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/swap-two-numbers/) | Basic |
 
+## two-pointer-algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
@@ -382,6 +392,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -425,6 +436,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [replace-all-0s-with-5](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/replace-all-0s-with-5/) | Basic |
+| [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
 
 ## Infosys
 | Problem Name | Difficulty |
@@ -451,6 +463,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [array-subset](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-subset/) | Basic |
 | [count-perfect-squares](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-perfect-squares/) | Basic |
+| [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
 
 ## Qualcomm
 | Problem Name | Difficulty |
@@ -479,6 +492,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [palindrome-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/palindrome-number/) | Easy |
 | [swap-two-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/swap-two-numbers/) | Basic |
+| [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
 
 ## VMWare
 | Problem Name | Difficulty |
@@ -500,7 +514,23 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [check-for-power](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/check-for-power/) | Basic |
 
+## Microsoft
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
+
+## OYO Rooms
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
+
+## CarWale
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
 
