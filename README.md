@@ -41,6 +41,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -66,6 +67,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0gcd-of-two](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0gcd-of-two/) | Basic |
 | [0npr](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0npr/) | Basic |
+| [0odd-or-even](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0odd-or-even/) | Easy |
 | [0sum-of-natural-number-cubes](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0sum-of-natural-number-cubes/) | Basic |
 | [armstrong-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/armstrong-numbers/) | Easy |
 | [check-for-power](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/check-for-power/) | Basic |
@@ -286,7 +288,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [last-digit-of-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/last-digit-of-number/) | Basic |
 
+## Bit Magic
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0odd-or-even](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0odd-or-even/) | Easy |
+
+## Check Whether Given Number Even Odd
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0odd-or-even](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0odd-or-even/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
