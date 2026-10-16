@@ -38,6 +38,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -66,6 +67,7 @@ Contains topicwise list of solved problems.
 | [0sum-of-natural-number-cubes](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0sum-of-natural-number-cubes/) | Basic |
 | [armstrong-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/armstrong-numbers/) | Easy |
 | [check-for-power](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/check-for-power/) | Basic |
+| [convert-celsius-to-fahrenheit](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/convert-celsius-to-fahrenheit/) | Basic |
 | [count-perfect-squares](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-perfect-squares/) | Basic |
 | [given-base-to-decimal-conversion](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/given-base-to-decimal-conversion/) | Basic |
 | [reading-books](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/reading-books/) | Easy |
@@ -254,7 +256,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [count-perfect-squares](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-perfect-squares/) | Basic |
 
+## Program Celsius Fahrenheit Conversion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [convert-celsius-to-fahrenheit](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/convert-celsius-to-fahrenheit/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
