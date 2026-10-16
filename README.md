@@ -39,6 +39,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -82,6 +83,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [given-base-to-decimal-conversion](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/given-base-to-decimal-conversion/) | Basic |
+| [last-digit-of-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/last-digit-of-number/) | Basic |
 
 ## permutation
 | Problem Name | Difficulty |
@@ -102,6 +104,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [element-at-index-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/element-at-index-in-array/) | Basic |
+| [last-digit-of-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/last-digit-of-number/) | Basic |
 
 ## Array Or List Traversal
 | Problem Name | Difficulty |
@@ -123,6 +126,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [array-search](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-search/) | Basic |
+| [last-digit-of-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/last-digit-of-number/) | Basic |
 
 ## Linear Search
 | Problem Name | Difficulty |
@@ -261,7 +265,28 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [convert-celsius-to-fahrenheit](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/convert-celsius-to-fahrenheit/) | Basic |
 
+## python
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [last-digit-of-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/last-digit-of-number/) | Basic |
+
+## JavaScript
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [last-digit-of-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/last-digit-of-number/) | Basic |
+
+## C#
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [last-digit-of-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/last-digit-of-number/) | Basic |
+
+## Last Digit Of Number
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [last-digit-of-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/last-digit-of-number/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
