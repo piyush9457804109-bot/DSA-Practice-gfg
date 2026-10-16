@@ -42,6 +42,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -108,6 +109,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [element-at-index-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/element-at-index-in-array/) | Basic |
 | [last-digit-of-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/last-digit-of-number/) | Basic |
+| [swap-two-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/swap-two-numbers/) | Basic |
 
 ## Array Or List Traversal
 | Problem Name | Difficulty |
@@ -130,6 +132,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [array-search](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-search/) | Basic |
 | [last-digit-of-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/last-digit-of-number/) | Basic |
+| [swap-two-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/swap-two-numbers/) | Basic |
 
 ## Linear Search
 | Problem Name | Difficulty |
@@ -272,16 +275,19 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [last-digit-of-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/last-digit-of-number/) | Basic |
+| [swap-two-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/swap-two-numbers/) | Basic |
 
 ## JavaScript
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [last-digit-of-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/last-digit-of-number/) | Basic |
+| [swap-two-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/swap-two-numbers/) | Basic |
 
 ## C#
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [last-digit-of-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/last-digit-of-number/) | Basic |
+| [swap-two-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/swap-two-numbers/) | Basic |
 
 ## Last Digit Of Number
 | Problem Name | Difficulty |
@@ -297,6 +303,16 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0odd-or-even](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0odd-or-even/) | Easy |
+
+## Operators
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [swap-two-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/swap-two-numbers/) | Basic |
+
+## Swap Two Numbers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [swap-two-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/swap-two-numbers/) | Basic |
 
 <!---GeeksForGeeks Tags End-->
 
@@ -338,7 +354,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -455,6 +473,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [palindrome-number](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/palindrome-number/) | Easy |
+| [swap-two-numbers](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/swap-two-numbers/) | Basic |
 
 ## VMWare
 | Problem Name | Difficulty |
@@ -477,6 +496,7 @@ Contains topicwise list of solved problems.
 | [check-for-power](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/check-for-power/) | Basic |
 
 <!---GeeksForGeeks Companies End-->
+
 
 
 
