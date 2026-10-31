@@ -46,6 +46,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -174,6 +175,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0two-arrays-permutation-check](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0two-arrays-permutation-check/) | Easy |
+| [bubble-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/bubble-sort/) | Easy |
 | [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
 
 ## Check If Two Arrays Are Equal Or Not
@@ -325,7 +327,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
 
+## Bubble Sort Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [bubble-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/bubble-sort/) | Easy |
+
+## C Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [bubble-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/bubble-sort/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
@@ -393,6 +406,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -401,6 +415,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0gcd-of-two](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0gcd-of-two/) | Basic |
 | [0max-consecutive-bit](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0max-consecutive-bit/) | Easy |
+| [bubble-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/bubble-sort/) | Easy |
 
 ## TCS
 | Problem Name | Difficulty |
@@ -446,6 +461,7 @@ Contains topicwise list of solved problems.
 ## Wipro
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [bubble-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/bubble-sort/) | Easy |
 | [largest-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/largest-in-array/) | Basic |
 
 ## Morgan Stanley
@@ -512,11 +528,13 @@ Contains topicwise list of solved problems.
 ## SAP Labs
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [bubble-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/bubble-sort/) | Easy |
 | [check-for-power](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/check-for-power/) | Basic |
 
 ## Microsoft
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [bubble-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/bubble-sort/) | Easy |
 | [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
 
 ## OYO Rooms
@@ -529,7 +547,28 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
 
+## Cisco
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [bubble-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/bubble-sort/) | Easy |
+
+## Nagarro
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [bubble-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/bubble-sort/) | Easy |
+
+## redBus
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [bubble-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/bubble-sort/) | Easy |
+
+## Huawei
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [bubble-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/bubble-sort/) | Easy |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
 
