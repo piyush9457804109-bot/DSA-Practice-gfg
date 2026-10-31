@@ -48,6 +48,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -63,6 +64,7 @@ Contains topicwise list of solved problems.
 | [count-odd-and-even](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-odd-and-even/) | Basic |
 | [element-at-index-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/element-at-index-in-array/) | Basic |
 | [largest-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/largest-in-array/) | Basic |
+| [most-frequent-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/most-frequent-in-array/) | Easy |
 | [palindrome-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/palindrome-array/) | Basic |
 | [reading-books](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/reading-books/) | Easy |
 | [replace-all-0s-with-5](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/replace-all-0s-with-5/) | Basic |
@@ -170,6 +172,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0two-arrays-permutation-check](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0two-arrays-permutation-check/) | Easy |
 | [array-subset](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-subset/) | Basic |
+| [most-frequent-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/most-frequent-in-array/) | Easy |
 | [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
 
 ## Sorting
@@ -177,6 +180,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0two-arrays-permutation-check](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0two-arrays-permutation-check/) | Easy |
 | [bubble-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/bubble-sort/) | Easy |
+| [most-frequent-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/most-frequent-in-array/) | Easy |
 | [selection-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/selection-sort/) | Easy |
 | [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
 
@@ -344,7 +348,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [selection-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/selection-sort/) | Easy |
 
+## Frequent Element Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [most-frequent-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/most-frequent-in-array/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
