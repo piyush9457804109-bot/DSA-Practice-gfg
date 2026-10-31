@@ -47,6 +47,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -176,6 +177,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0two-arrays-permutation-check](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0two-arrays-permutation-check/) | Easy |
 | [bubble-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/bubble-sort/) | Easy |
+| [selection-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/selection-sort/) | Easy |
 | [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
 
 ## Check If Two Arrays Are Equal Or Not
@@ -337,6 +339,11 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [bubble-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/bubble-sort/) | Easy |
 
+## Selection Sort Algorithm 2
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [selection-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/selection-sort/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
 
 
@@ -382,7 +389,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -535,6 +544,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [bubble-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/bubble-sort/) | Easy |
+| [selection-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/selection-sort/) | Easy |
 | [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
 
 ## OYO Rooms
@@ -567,7 +577,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [bubble-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/bubble-sort/) | Easy |
 
+## Medlife
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [selection-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/selection-sort/) | Easy |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
 
