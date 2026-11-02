@@ -49,6 +49,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -129,6 +130,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [array-search](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-search/) | Basic |
 | [array-subset](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-subset/) | Basic |
+| [count-1s-in-binary-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-1s-in-binary-array/) | Easy |
 
 ## Cpp Program For Linear Search
 | Problem Name | Difficulty |
@@ -353,7 +355,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [most-frequent-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/most-frequent-in-array/) | Easy |
 
+## Count 1s Sorted Binary Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [count-1s-in-binary-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-1s-in-binary-array/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
