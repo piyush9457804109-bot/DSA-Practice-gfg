@@ -51,6 +51,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -129,6 +130,7 @@ Contains topicwise list of solved problems.
 ## Searching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [allocate-minimum-pages](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/allocate-minimum-pages/) | Medium |
 | [array-search](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-search/) | Basic |
 | [array-subset](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/array-subset/) | Basic |
 | [count-1s-in-binary-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-1s-in-binary-array/) | Easy |
@@ -361,7 +363,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [count-1s-in-binary-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/count-1s-in-binary-array/) | Easy |
 
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [allocate-minimum-pages](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/allocate-minimum-pages/) | Medium |
+
+## Allocate Minimum Number Pages
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [allocate-minimum-pages](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/allocate-minimum-pages/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
@@ -436,6 +449,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -464,6 +478,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0max-consecutive-bit](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0max-consecutive-bit/) | Easy |
+| [allocate-minimum-pages](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/allocate-minimum-pages/) | Medium |
 
 ## Adobe
 | Problem Name | Difficulty |
@@ -479,12 +494,14 @@ Contains topicwise list of solved problems.
 ## Amazon
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [allocate-minimum-pages](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/allocate-minimum-pages/) | Medium |
 | [replace-all-0s-with-5](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/replace-all-0s-with-5/) | Basic |
 | [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
 
 ## Infosys
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [allocate-minimum-pages](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/allocate-minimum-pages/) | Medium |
 | [largest-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/largest-in-array/) | Basic |
 
 ## Wipro
@@ -563,6 +580,7 @@ Contains topicwise list of solved problems.
 ## Microsoft
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [allocate-minimum-pages](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/allocate-minimum-pages/) | Medium |
 | [bubble-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/bubble-sort/) | Easy |
 | [selection-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/selection-sort/) | Easy |
 | [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
@@ -602,7 +620,23 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [selection-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/selection-sort/) | Easy |
 
+## Google
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [allocate-minimum-pages](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/allocate-minimum-pages/) | Medium |
+
+## Codenation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [allocate-minimum-pages](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/allocate-minimum-pages/) | Medium |
+
+## Uber
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [allocate-minimum-pages](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/allocate-minimum-pages/) | Medium |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
 
