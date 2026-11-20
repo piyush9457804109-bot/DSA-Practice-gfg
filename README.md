@@ -55,6 +55,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -376,6 +377,16 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [allocate-minimum-pages](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/allocate-minimum-pages/) | Medium |
 
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0row-with-max-1s-in-rowwise-sorted](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0row-with-max-1s-in-rowwise-sorted/) | Medium |
+
+## Find The Row With Maximum Number 1s
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0row-with-max-1s-in-rowwise-sorted](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0row-with-max-1s-in-rowwise-sorted/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
 
 
@@ -429,7 +440,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -644,7 +657,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [allocate-minimum-pages](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/allocate-minimum-pages/) | Medium |
 
+## Swiggy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0row-with-max-1s-in-rowwise-sorted](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0row-with-max-1s-in-rowwise-sorted/) | Medium |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
 
