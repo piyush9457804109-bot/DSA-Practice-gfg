@@ -33,14 +33,15 @@ class Solution {
             if (pages > maxPages) {
                 return false;
             }
-            if (currentPages + pages <= maxPages) {
-                currentPages += pages;
-            } else {
+
+            if (currentPages + pages > maxPages) {
                 students++;
                 currentPages = pages;
                 if (students > k) {
                     return false;
                 }
+            } else {
+                currentPages += pages;
             }
         }
 
