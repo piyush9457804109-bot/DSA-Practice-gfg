@@ -56,6 +56,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -76,6 +77,7 @@ Contains topicwise list of solved problems.
 | [reading-books](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/reading-books/) | Easy |
 | [replace-all-0s-with-5](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/replace-all-0s-with-5/) | Basic |
 | [rotate-array-by-one](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/rotate-array-by-one/) | Basic |
+| [search-in-an-almost-sorted-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/search-in-an-almost-sorted-array/) | Medium |
 | [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
 
 ## Mathematics
@@ -190,6 +192,7 @@ Contains topicwise list of solved problems.
 | [0two-arrays-permutation-check](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0two-arrays-permutation-check/) | Easy |
 | [bubble-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/bubble-sort/) | Easy |
 | [most-frequent-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/most-frequent-in-array/) | Easy |
+| [search-in-an-almost-sorted-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/search-in-an-almost-sorted-array/) | Medium |
 | [selection-sort](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/selection-sort/) | Easy |
 | [triplet-sum-in-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/triplet-sum-in-array/) | Medium |
 
@@ -387,7 +390,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0row-with-max-1s-in-rowwise-sorted](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/0row-with-max-1s-in-rowwise-sorted/) | Medium |
 
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [search-in-an-almost-sorted-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/search-in-an-almost-sorted-array/) | Medium |
+
+## Search Almost Sorted Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [search-in-an-almost-sorted-array](https://github.com/piyush9457804109-bot/DSA-Practice-gfg/tree/main/search-in-an-almost-sorted-array/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
